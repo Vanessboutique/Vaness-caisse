@@ -1,18 +1,13 @@
-VANE'SS BOUTIQUE - CAISSE GRATUITE
+VANE'SS BOUTIQUE — MISE À JOUR
 
-INSTALLATION GRATUITE AVEC GITHUB PAGES
-1. Créer un compte gratuit sur github.com.
-2. Créer un dépôt PUBLIC (par exemple vaness-caisse). Attention : les fichiers du code sont publics, ne jamais y mettre de données clientes ou secrets.
-3. Envoyer les fichiers de ce dossier à la racine du dépôt (pas le ZIP).
-4. Dans Settings > Pages, choisir Deploy from a branch, main, /(root), puis Save.
-5. Attendre la publication et ouvrir l'adresse HTTPS indiquée dans Pages avec Safari sur l'iPhone.
-6. Dans Safari, Partager > Sur l'écran d'accueil > Ajouter.
-7. Ouvrir l'application avec connexion une fois, puis tester le mode avion et un PDF avant une vraie vente.
+IMPORTANT : Faites une sauvegarde JSON de la caisse sur votre iPhone AVANT toute modification.
 
-IMPORTANT
-- Les ventes sont conservées UNIQUEMENT sur l'appareil et dans ce navigateur / cette installation. Pas de synchronisation entre appareils.
-- Exporter une sauvegarde JSON après chaque journée et la conserver dans Fichiers/iCloud. Tester la restauration.
-- Ne pas effacer les données de Safari sans sauvegarde.
-- Le PDF est un reçu simplifié; vérifier les mentions professionnelles et obligations légales selon les ventes.
-- GitHub Pages est gratuit sous réserve des conditions de l'offre. Pas de frais récurrents imposés par le code.
-- Le code n'encaisse pas les paiements et n'envoie pas automatiquement les PDF.
+Sur GitHub, dans le dossier vaness-caisse existant, remplacez les fichiers par ceux du dossier vaness-caisse de ce ZIP. Ne supprimez pas le dépôt GitHub et ne changez pas son adresse.
+
+Nouveautés : reçu A5 avec logo, impression ou enregistrement PDF via la fonction Imprimer du téléphone, annulation conservée dans l'historique, totaux hors annulations, suivi mensuel et total général.
+
+Les ventes restent enregistrées localement dans le même navigateur sur le même iPhone : la mise à jour ne doit pas changer l'URL de la caisse.
+
+ATTENTION : le reçu se présente dans la caisse ; touchez « Imprimer / Enregistrer en PDF » pour utiliser les options de partage/impression de l'iPhone.
+
+Après publication, rechargez la caisse en ligne puis testez avec une vente fictive et annulez-la.
