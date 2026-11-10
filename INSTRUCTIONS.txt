@@ -1,0 +1,7 @@
+MISE A JOUR VANE'SS CAISSE
+
+Sur GitHub, dans le depot Vaness-caisse, ouvrir le dossier vaness-caisse. Cliquer Add file > Upload files. Ajouter les fichiers de ce ZIP (sans dossier parent), confirmer le remplacement de index.html et sw.js puis Commit changes. Ne pas ajouter de donnees de clientes sur GitHub.
+
+Apres publication, ouvrir https://vanessboutique.github.io/Vaness-caisse/vaness-caisse/ et recharger la page. Si une ancienne version apparait encore, fermer puis rouvrir la page; le cache hors ligne peut prendre un rechargement supplementaire.
+
+Les ventes restent sur le navigateur de chaque appareil. Exporter des sauvegardes regulierement.
