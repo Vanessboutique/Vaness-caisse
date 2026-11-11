@@ -1,0 +1,21 @@
+VANE’SS BOUTIQUE — MISE À JOUR BANCONTACT PAY
+
+IMPORTANT : faire une sauvegarde JSON des ventes avant toute mise à jour.
+
+Sur iPhone, ouvrir l’application Raccourcis (Apple).
+1. Appuyer sur + pour créer un raccourci.
+2. Ajouter l’action « Ouvrir l’app ».
+3. Dans cette action, choisir « Bancontact Pay ».
+4. Nommer exactement le raccourci : Ouvrir Bancontact Pay
+5. Enregistrer et le tester dans Raccourcis.
+
+Sur GitHub, ouvrir le dossier PRINCIPAL du dépôt Vaness-caisse (là où GitHub Pages publie la caisse).
+Décompresser ce ZIP et téléverser les fichiers du dossier vaness-caisse directement à la racine du dépôt, sans le dossier lui-même.
+Valider Commit changes. Ne pas supprimer le dépôt ni changer son adresse.
+
+Dans la caisse, choisir « Bancontact / QR », puis « Ouvrir Bancontact Pay ».
+Le raccourci ouvre l’application, mais ne préremplit pas le montant, ne crée pas le QR et ne confirme pas le paiement.
+Saisir le montant affiché dans Bancontact Pay, générer le QR et attendre la confirmation de paiement.
+Revenir à la caisse et seulement alors valider la vente et générer le reçu A5.
+
+Les ventes restent locales à chaque appareil et ne se synchronisent pas.
